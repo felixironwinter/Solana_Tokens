@@ -1,0 +1,2 @@
+C:\Users\tobyw\source\repos\Solana_Tokens\NodejsTokenNameAdding\obj\Debug\NodejsWebApp.njsproj.CoreCompileInputs.cache
+C:\Users\tobyw\source\repos\Solana_Tokens\NodejsTokenNameAdding\bin\Microsoft.NodejsTools.WebRole.dll

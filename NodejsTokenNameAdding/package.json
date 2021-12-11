@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-token-name-adding",
+  "version": "0.0.0",
+  "type": "module",
+  "description": "NodejsTokenNameAdding",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@solana/spl-token-registry": "^0.2.754",
+    "react": "^17.0.2"
+  }
+}
